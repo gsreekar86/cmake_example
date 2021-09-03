@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/demo.dir/main.cpp.o  -o demo  compiled_yoctolib/libYoctoLib.a compiled_yoctolib/yapi/libyapi.a -lpthread -lusb-1.0 

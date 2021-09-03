@@ -1,0 +1,9 @@
+/var/lib/jenkins/workspace/cmake_example/demo_app/CMakeFiles/rebuild_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/CMakeFiles/edit_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/CMakeFiles/demo.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/CMakeFiles/rebuild_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/CMakeFiles/edit_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/CMakeFiles/YoctoLib.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/yapi/CMakeFiles/rebuild_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/yapi/CMakeFiles/edit_cache.dir
+/var/lib/jenkins/workspace/cmake_example/demo_app/compiled_yoctolib/yapi/CMakeFiles/yapi.dir
